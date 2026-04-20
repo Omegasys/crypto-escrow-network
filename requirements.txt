@@ -1,0 +1,25 @@
+# Encryption Libraries
+pycryptodome>=3.10.1  # For AES, ChaCha20-Poly1305, and other cryptographic algorithms
+cryptography>=3.4.7    # For additional encryption, RSA key generation
+
+# Networking Libraries
+paramiko>=2.7.2         # For SSH support
+requests>=2.25.1       # For HTTP/HTTPS communication
+
+# Testing Libraries
+pytest>=6.2.5          # For running tests
+pytest-mock>=3.6.1     # For mocking objects in tests
+
+# Utility Libraries
+flask>=2.0.1           # If you plan to expose API via Flask (optional, if you want to build an API server)
+Flask-RESTful>=0.3.9   # For REST API if needed
+requests>=2.25.1       # HTTP requests for API communication
+
+# Logging Libraries
+loguru>=0.5.3          # For logging purposes (if using Loguru)
+
+# Time Handling
+python-dateutil>=2.8.2 # For date/time handling (e.g., in escrow transactions)
+
+# Miscellaneous
+colorama>=0.4.4        # For colorful terminal output (optional)
