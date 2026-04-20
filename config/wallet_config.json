@@ -1,0 +1,34 @@
+{
+  "wallets": {
+    "internal_wallet": {
+      "address": "1A2b3C4d5E6f7G8h9I0j1K2L3M4n5P6q7R8S9T0",
+      "balance": 1000.0,
+      "currency": "BTC"
+    },
+    "wallet_2A": {
+      "address": "2A3b4C5d6E7f8G9h0I1J2k3L4M5N6O7p8Q9r0S1",
+      "balance": 500.0,
+      "currency": "BTC"
+    },
+    "wallet_2B": {
+      "address": "3A4B5C6D7E8F9G0H1I2J3K4L5M6N7O8P9Q0R1S2",
+      "balance": 300.0,
+      "currency": "BTC"
+    },
+    "wallet_3A": {
+      "address": "4A5b6C7D8E9F0G1H2I3J4K5L6M7N8O9P0Q1R2S3",
+      "balance": 600.0,
+      "currency": "BTC"
+    },
+    "wallet_3B": {
+      "address": "5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4",
+      "balance": 200.0,
+      "currency": "BTC"
+    },
+    "wallet_4A": {
+      "address": "6A7B8C9D0E1F2G3H4I5J6K7L8M9N0O1P2Q3R4S5",
+      "balance": 750.0,
+      "currency": "BTC"
+    }
+  }
+}
