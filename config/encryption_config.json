@@ -1,0 +1,19 @@
+{
+  "encryption": {
+    "chacha20_poly1305": {
+      "key_size": 32,
+      "nonce_size": 12,
+      "tag_size": 16
+    },
+    "aes256": {
+      "key_size": 32,
+      "block_size": 16,
+      "mode": "CBC"
+    },
+    "double_ratchet": {
+      "key_derivation_algorithm": "HKDF",
+      "hash_algorithm": "SHA-256",
+      "message_key_size": 32
+    }
+  }
+}
