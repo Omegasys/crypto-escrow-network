@@ -1,0 +1,46 @@
+{
+  "mixer_settings": {
+    "mixer_1": {
+      "io_ports": 32,
+      "delay_seconds_range": {
+        "min": 1,
+        "max": 9
+      }
+    },
+    "mixer_2": {
+      "io_ports": 32,
+      "delay_seconds_range": {
+        "min": 1,
+        "max": 9
+      }
+    },
+    "mixer_3": {
+      "io_ports": 32,
+      "delay_seconds_range": {
+        "min": 1,
+        "max": 9
+      }
+    },
+    "mixer_4": {
+      "io_ports": 32,
+      "delay_seconds_range": {
+        "min": 1,
+        "max": 9
+      }
+    },
+    "mixer_5": {
+      "io_ports": 32,
+      "delay_seconds_range": {
+        "min": 1,
+        "max": 9
+      }
+    },
+    "mixer_6": {
+      "io_ports": 32,
+      "delay_seconds_range": {
+        "min": 1,
+        "max": 9
+      }
+    }
+  }
+}
