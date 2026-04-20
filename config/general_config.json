@@ -1,0 +1,15 @@
+{
+  "system_settings": {
+    "network_ports": {
+      "tcp_port": 8080,
+      "ssh_port": 22,
+      "https_port": 443
+    },
+    "time_delay_range_seconds": {
+      "min": 1,
+      "max": 9
+    },
+    "escrow_fund_lock_period": 3600, 
+    "escrow_fund_release_timeout": 7200
+  }
+}
